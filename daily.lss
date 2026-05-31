@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>PokéRogue</GameName>
+  <CategoryName>Daily Run</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False"></Platform>
+    <Region></Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Trainer (Wave 5)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Trainer (Wave 15)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Trainer (Wave 25)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Trainer (Wave 35)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Trainer (Wave 45)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Final Boss (Wave 50)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

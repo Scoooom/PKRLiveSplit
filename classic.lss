@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>PokéRogue</GameName>
+  <CategoryName>Classic / Challenge</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False"></Platform>
+    <Region></Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>Youngster (Wave 5)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rival 1 (Wave 8)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rival 2 (Wave 25)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Grunt (Wave 35)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rival 3 (Wave 55)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Grunt (Wave 62)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Grunt (Wave 64)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Admin (Wave 66)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rival 4 (Wave 95)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Grunt (Wave 112)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Grunt (Wave 114)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Boss (Wave 115)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rival 5 (Wave 145)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Admin (Wave 164)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Evil Team Boss (Wave 165)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Elite Four 1 (Wave 182)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Elite Four 2 (Wave 184)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Elite Four 3 (Wave 186)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Elite Four 4 (Wave 188)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Champion (Wave 190)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Rival 6 - Final (Wave 195)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Eternatus - Final Boss (Wave 200)</Name>
+      <Icon />
+      <SplitTimes><SplitTime name="Personal Best" /></SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>

@@ -88,3 +88,14 @@ const CONFIG = {
 - The timer starts automatically on wave 1 and resets automatically when a new run is detected (via `playTime` dropping)
 - Gym leaders are intentionally excluded from splits per the project design
 - The script will continuously attempt to reconnect to LiveSplit Server if the connection drops
+
+## Split Files
+
+Pre-made LiveSplit split files are included in the repo:
+
+| File | Mode |
+|------|------|
+| `classic.lss` | Classic & Challenge |
+| `daily.lss` | Daily Run |
+
+To use: open LiveSplit → right-click → **Open Splits** → select the file. The script will automatically advance through the splits as you play.

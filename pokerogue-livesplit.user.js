@@ -6,6 +6,8 @@
 // @author       Scoooom
 // @match        https://pokerogue.net/*
 // @match        https://*.pokerogue.net/*
+// @updateURL    https://raw.githubusercontent.com/Scoooom/PKRLiveSplit/main/pokerogue-livesplit.user.js
+// @downloadURL  https://raw.githubusercontent.com/Scoooom/PKRLiveSplit/main/pokerogue-livesplit.user.js
 // @grant        none
 // ==/UserScript==
 

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PokeRogue LiveSplit Integration
 // @namespace    https://github.com/Scoooom
-// @version      1.0.0
+// @version      1.0.1
 // @description  Auto-splits LiveSplit for PokeRogue speedruns via WebSocket
 // @author       Scoooom
 // @match        https://pokerogue.net/*
